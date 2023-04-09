@@ -1,1 +1,1 @@
-This version of EFI is only applicable to ThinkPadx200 (7458E69) version, but it can also be 2G, but I have not tested it before, but the maximum version can only be 10.13.6. If you have any further ideas, please contact me.  
+This version of EFI is only applicable to ThinkPadx200 (7458E69) version. The memory must be 4GB, but it can also be 2GB. However, I have not tested it, but the maximum version is 10.13.6. If you have any ideas, please contact me.
