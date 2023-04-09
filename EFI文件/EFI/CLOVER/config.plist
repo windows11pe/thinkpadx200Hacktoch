@@ -97,184 +97,184 @@
 				<dict>
 					<key>Comment</key>
 					<string>change OSID to XSID (to avoid match against _OSI XOSI patch)</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>T1NJRA==</data>
+					<data>
+					T1NJRA==
+					</data>
 					<key>Replace</key>
-					<data>WFNJRA==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					WFNJRA==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change _OSI to XOSI</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>X09TSQ==</data>
+					<data>
+					X09TSQ==
+					</data>
 					<key>Replace</key>
-					<data>WE9TSQ==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					WE9TSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change _DSM to XDSM</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>X0RTTQ==</data>
+					<data>
+					X0RTTQ==
+					</data>
 					<key>Replace</key>
-					<data>WERTTQ==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					WERTTQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change EC0 to EC</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>RUMwXw==</data>
+					<data>
+					RUMwXw==
+					</data>
 					<key>Replace</key>
-					<data>RUNfXw==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					RUNfXw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change H_EC to EC</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>SF9FQw==</data>
+					<data>
+					SF9FQw==
+					</data>
 					<key>Replace</key>
-					<data>RUNfXw==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					RUNfXw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change ECDV to EC</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<true/>
 					<key>Find</key>
-					<data>RUNEVg==</data>
+					<data>
+					RUNEVg==
+					</data>
 					<key>Replace</key>
-					<data>RUNfXw==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					RUNfXw==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change HDAS to HDEF</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>SERBUw==</data>
+					<data>
+					SERBUw==
+					</data>
 					<key>Replace</key>
-					<data>SERFRg==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					SERFRg==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change HECI to IMEI</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>SEVDSQ==</data>
+					<data>
+					SEVDSQ==
+					</data>
 					<key>Replace</key>
-					<data>SU1FSQ==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					SU1FSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change MEI to IMEI</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>TUVJXw==</data>
+					<data>
+					TUVJXw==
+					</data>
 					<key>Replace</key>
-					<data>SU1FSQ==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					SU1FSQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change GFX0 to IGPU</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>R0ZYMA==</data>
+					<data>
+					R0ZYMA==
+					</data>
 					<key>Replace</key>
-					<data>SUdQVQ==</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					SUdQVQ==
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change PCI0.VID to IGPU #1 (Thinkpad)</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>UENJMFZJRF8=</data>
+					<data>
+					UENJMFZJRF8=
+					</data>
 					<key>Replace</key>
-					<data>UENJMElHUFU=</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					UENJMElHUFU=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>change PCI0.VID to IGPU #2 (Thinkpad)</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>VklEXwhfQURSDAAAAgA=</data>
+					<data>
+					VklEXwhfQURSDAAAAgA=
+					</data>
 					<key>Replace</key>
-					<data>SUdQVQhfQURSDAAAAgA=</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					SUdQVQhfQURSDAAAAgA=
+					</data>
 				</dict>
 				<dict>
 					<key>Comment</key>
 					<string>Fix AsRock Z390 BIOS DSDT Device(RTC) bug</string>
-					<key>Count</key>
-					<integer>0</integer>
 					<key>Disabled</key>
 					<false/>
 					<key>Find</key>
-					<data>oAqTU1RBUwE=</data>
+					<data>
+					oAqTU1RBUwE=
+					</data>
 					<key>Replace</key>
-					<data>oAqRCv8L//8=</data>
-					<key>Skip</key>
-					<integer>0</integer>
+					<data>
+					oAqRCv8L//8=
+					</data>
 				</dict>
 			</array>
 		</dict>
@@ -309,13 +309,15 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-lilubetaall debug=0x100 -disablegfxfirmware -v darkwake=8 alcid=11</string>
+		<string>-lilubetaall debug=0x100 -disablegfxfirmware -v darkwake=8</string>
 		<key>CustomLogo</key>
 		<string>Apple</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Legacy</key>
 		<string>LegacyBiosDefault</string>
+		<key>Log</key>
+		<false/>
 		<key>NeverHibernate</key>
 		<true/>
 		<key>NoEarlyProgress</key>
@@ -325,7 +327,7 @@
 		<key>Timeout</key>
 		<integer>5</integer>
 		<key>XMPDetection</key>
-		<integer>0</integer>
+		<string>Yes</string>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -344,7 +346,9 @@
 				<key>Key</key>
 				<string>hda-gfx</string>
 				<key>Value</key>
-				<data>b25ib2FyZC0xAA==</data>
+				<data>
+				b25ib2FyZC0xAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -354,7 +358,9 @@
 				<key>Key</key>
 				<string>hda-gfx</string>
 				<key>Value</key>
-				<data>b25ib2FyZC0xAA==</data>
+				<data>
+				b25ib2FyZC0xAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -364,7 +370,9 @@
 				<key>Key</key>
 				<string>layout-id</string>
 				<key>Value</key>
-				<data>AwAAAA==</data>
+				<data>
+				AwAAAA==
+				</data>
 			</dict>
 			<dict>
 				<key>Device</key>
@@ -372,14 +380,10 @@
 				<key>Key</key>
 				<string>PinConfigurations</string>
 				<key>Value</key>
-				<data></data>
+				<data>
+				</data>
 			</dict>
 		</array>
-		<key>Audio</key>
-		<dict>
-			<key>Inject</key>
-			<integer>11</integer>
-		</dict>
 		<key>FakeID</key>
 		<dict>
 			<key>#Kaby Lake-Comment</key>
@@ -414,6 +418,8 @@
 					<string>UEFI internal</string>
 					<key>Hidden</key>
 					<string>Always</string>
+					<key>Ignore</key>
+					<false/>
 					<key>NoCaches</key>
 					<false/>
 					<key>Type</key>
@@ -427,8 +433,6 @@
 			<string>Recovery</string>
 			<string>Windows</string>
 		</array>
-		<key>KbdPrevLang</key>
-		<true/>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
@@ -490,80 +494,80 @@
 			<dict>
 				<key>Comment</key>
 				<string>Disable panic kext logging on 10.13 Debug kernel</string>
-				<key>Count</key>
-				<integer>0</integer>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>sABMi1Xw</data>
+				<data>
+				sABMi1Xw
+				</data>
 				<key>MatchOS</key>
 				<string>10.13</string>
 				<key>Replace</key>
-				<data>SIPEQF3D</data>
-				<key>Skip</key>
-				<integer>0</integer>
+				<data>
+				SIPEQF3D
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Disable panic kext logging on Release kernel</string>
-				<key>Count</key>
-				<integer>0</integer>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>igKEwHRE</data>
+				<data>
+				igKEwHRE
+				</data>
 				<key>MatchOS</key>
 				<string>10.13</string>
 				<key>Replace</key>
-				<data>igKEwOtE</data>
-				<key>Skip</key>
-				<integer>0</integer>
+				<data>
+				igKEwOtE
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Disable panic kext logging on Release kernel</string>
-				<key>Count</key>
-				<integer>0</integer>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>igKEwHRC</data>
+				<data>
+				igKEwHRC
+				</data>
 				<key>MatchOS</key>
 				<string>10.14,10.14.1,10.14.2,10.14.3</string>
 				<key>Replace</key>
-				<data>igKEwOtC</data>
-				<key>Skip</key>
-				<integer>0</integer>
+				<data>
+				igKEwOtC
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>Disable panic kext logging on Release kernel</string>
-				<key>Count</key>
-				<integer>0</integer>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>AIoChMB0</data>
+				<data>
+				AIoChMB0
+				</data>
 				<key>MatchOS</key>
 				<string>10.14.4,10.14.5</string>
 				<key>Replace</key>
-				<data>AIoChMDr</data>
-				<key>Skip</key>
-				<integer>0</integer>
+				<data>
+				AIoChMDr
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
 				<string>MSR 0xE2 _xcpm_idle instant reboot(c) Pike R. Alpha</string>
-				<key>Count</key>
-				<integer>0</integer>
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>ILniAAAADzA=</data>
+				<data>
+				ILniAAAADzA=
+				</data>
 				<key>Replace</key>
-				<data>ILniAAAAkJA=</data>
-				<key>Skip</key>
-				<integer>0</integer>
+				<data>
+				ILniAAAAkJA=
+				</data>
 			</dict>
 		</array>
 		<key>KextsToPatch</key>
@@ -574,7 +578,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>dkBI/wU=</data>
+				<data>
+				dkBI/wU=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -582,7 +588,9 @@
 				<key>Name</key>
 				<string>AppleIntelBDWGraphicsFramebuffer</string>
 				<key>Replace</key>
-				<data>60BI/wU=</data>
+				<data>
+				60BI/wU=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -590,7 +598,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>dkBI/wU=</data>
+				<data>
+				dkBI/wU=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -598,7 +608,9 @@
 				<key>Name</key>
 				<string>AppleIntelSKLGraphicsFramebuffer</string>
 				<key>Replace</key>
-				<data>60BI/wU=</data>
+				<data>
+				60BI/wU=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -606,7 +618,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>dkZI/wU=</data>
+				<data>
+				dkZI/wU=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -614,7 +628,9 @@
 				<key>Name</key>
 				<string>AppleIntelKBLGraph﻿icsFramebuffer﻿﻿﻿</string>
 				<key>Replace</key>
-				<data>60ZI/wU=</data>
+				<data>
+				60ZI/wU=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -622,7 +638,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>dkBI/wU=</data>
+				<data>
+				dkBI/wU=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -630,7 +648,9 @@
 				<key>Name</key>
 				<string>AppleIntelCFLGraphicsFramebuffer</string>
 				<key>Replace</key>
-				<data>60BI/wU=</data>
+				<data>
+				60BI/wU=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -638,7 +658,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>dkZI/wU=</data>
+				<data>
+				dkZI/wU=
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -646,7 +668,9 @@
 				<key>Name</key>
 				<string>AppleIntelCFLGraphicsFramebuffer</string>
 				<key>Replace</key>
-				<data>60ZI/wU=</data>
+				<data>
+				60ZI/wU=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -654,13 +678,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SU9LaXQ=</data>
+				<data>
+				SU9LaXQ=
+				</data>
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>Name</key>
 				<string>AppleIntelLpssI2C</string>
 				<key>Replace</key>
-				<data>SU9LaXM=</data>
+				<data>
+				SU9LaXM=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -668,13 +696,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SU9LaXQ=</data>
+				<data>
+				SU9LaXQ=
+				</data>
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>Name</key>
 				<string>AppleIntelLpssI2CController</string>
 				<key>Replace</key>
-				<data>SU9LaXM=</data>
+				<data>
+				SU9LaXM=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -682,13 +714,17 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>SU9LaXQ=</data>
+				<data>
+				SU9LaXQ=
+				</data>
 				<key>InfoPlistPatch</key>
 				<true/>
 				<key>Name</key>
 				<string>IOBufferCopyController</string>
 				<key>Replace</key>
-				<data>SU9LaXM=</data>
+				<data>
+				SU9LaXM=
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -696,7 +732,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>g32UDw+DlwQAAA==</data>
+				<data>
+				g32UDw+DlwQAAA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -704,7 +742,9 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>g32UGpCQkJCQkA==</data>
+				<data>
+				g32UGpCQkJCQkA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -712,7 +752,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>g32IDw+DpwQAAA==</data>
+				<data>
+				g32IDw+DpwQAAA==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -720,7 +762,9 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>g32ID5CQkJCQkA==</data>
+				<data>
+				g32ID5CQkJCQkA==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -728,7 +772,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>g/sPD4MDBQAA</data>
+				<data>
+				g/sPD4MDBQAA
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -736,7 +782,9 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>g/sPkJCQkJCQ</data>
+				<data>
+				g/sPkJCQkJCQ
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -744,7 +792,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>g/sPDw==</data>
+				<data>
+				g/sPDw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -752,7 +802,9 @@
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
-				<data>g/s/Dw==</data>
+				<data>
+				g/s/Dw==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -760,7 +812,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>g+MP0w==</data>
+				<data>
+				g+MP0w==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -768,7 +822,9 @@
 				<key>Name</key>
 				<string>com.apple.iokit.IOUSBHostFamily</string>
 				<key>Replace</key>
-				<data>g+M/0w==</data>
+				<data>
+				g+M/0w==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -776,7 +832,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>g/sPDw==</data>
+				<data>
+				g/sPDw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -784,7 +842,9 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>g/s/Dw==</data>
+				<data>
+				g/s/Dw==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -792,7 +852,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>g/8PDw==</data>
+				<data>
+				g/8PDw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -800,7 +862,9 @@
 				<key>Name</key>
 				<string>com.apple.driver.usb.AppleUSBXHCI</string>
 				<key>Replace</key>
-				<data>g/8/Dw==</data>
+				<data>
+				g/8/Dw==
+				</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -808,7 +872,9 @@
 				<key>Disabled</key>
 				<false/>
 				<key>Find</key>
-				<data>dTMPtw==</data>
+				<data>
+				dTMPtw==
+				</data>
 				<key>InfoPlistPatch</key>
 				<false/>
 				<key>MatchOS</key>
@@ -816,14 +882,11 @@
 				<key>Name</key>
 				<string>com.apple.driver.AppleRTC</string>
 				<key>Replace</key>
-				<data>6zMPtw==</data>
+				<data>
+				6zMPtw==
+				</data>
 			</dict>
 		</array>
-	</dict>
-	<key>Quirks</key>
-	<dict>
-		<key>ResizeAppleGpuBars</key>
-		<integer>-1</integer>
 	</dict>
 	<key>RtVariables</key>
 	<dict>
@@ -836,6 +899,8 @@
 	<dict>
 		<key>ProductName</key>
 		<string>MacBookAir6,2</string>
+		<key>ProductName-Comment</key>
+		<string>Using Haswell MacBookAir6,2 until Clover has support for KabyLake identifiers</string>
 		<key>Trust</key>
 		<true/>
 	</dict>
@@ -843,6 +908,8 @@
 	<dict>
 		<key>#BacklightLevel</key>
 		<integer>0</integer>
+		<key>InjectKexts</key>
+		<string>Detect</string>
 		<key>InjectSystemID</key>
 		<true/>
 	</dict>
