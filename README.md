@@ -1,0 +1,1 @@
+This version of EFI is only applicable to ThinkPadx200 (7458E69) version, but it can also be 2G, but I have not tested it before, but the maximum version can only be 10.13.6. If you have any further ideas, please contact me.  
